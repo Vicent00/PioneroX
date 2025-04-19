@@ -1,6 +1,9 @@
 # PioneroX - Tiered NFT Presale System
 
-![PioneroX Logo](https://via.placeholder.com/150) <!-- Replace with actual logo -->
+<div align="center">
+  <img src="snapshots\structure.png" alt="Project Structure" width="600">
+  <p><em>Visual representation of the project's structure and components</em></p>
+</div>
 
 ## Overview
 
