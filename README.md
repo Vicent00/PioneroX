@@ -231,12 +231,6 @@ forge script script/Deploy.s.sol:DeployScript --rpc-url $ARBITRUM_RPC_URL --broa
 - ✅ Input validation and requirements
 - 💰 Safe token transfers using SafeERC20
 
-## 🧪 Testing
-
-Run the test suite:
-```bash
-forge test
-```
 
 ## 🤝 Contributing
 
@@ -252,9 +246,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- 🌐 Website: [pionerox.com](https://pionerox.com)
-- 🐦 Twitter: [@PioneroX](https://twitter.com/PioneroX)
-- 💬 Discord: [Join our community](https://discord.gg/pionerox)
+- 🌐 Website: [vicenteaguilar.com](https://vicenteaguilar.com)
+- 💬 Linkedin: [Visit my Profile](www.linkedin.com/in/vicente-aguilar00)
 
 ## 🙏 Acknowledgments
 
