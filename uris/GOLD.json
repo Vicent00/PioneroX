@@ -1,0 +1,15 @@
+{
+    "name": "Tiered Presale NFT #TOKEN_ID",
+    "description": "Gold Tier NFT for Token Presale",
+    "image": "https://ipfs.io/ipfs/bafkreieioc6kpo6btd4xoakqspykar2w2qrxmr5x7lgvr7jqc6mmkx2ibm",
+    "attributes": [
+        {
+            "trait_type": "Tier",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Discount",
+            "value": "40%"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Tiered Presale NFT #TOKEN_ID",
+    "description": "Bronze Tier NFT for Token Presale",
+    "image": "https://ipfs.io/ipfs/bafkreibq2ya7tuen4ntt7vczshotaidh7neepxxg2eo2yupascoar6zwta",
+    "attributes": [
+        {
+            "trait_type": "Tier",
+            "value": "Bronze"
+        },
+        {
+            "trait_type": "Discount",
+            "value": "15%"
+        }
+    ]
+}

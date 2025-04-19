@@ -1,0 +1,15 @@
+{
+    "name": "Tiered Presale NFT #TOKEN_ID",
+    "description": "Silver Tier NFT for Token Presale",
+    "image": "https://ipfs.io/ipfs/bafkreic5gjybob6dqlm2t5der7qkjwoasda25uvuiu2ymf77lugkn4ju5a",
+    "attributes": [
+        {
+            "trait_type": "Tier",
+            "value": "Silver"
+        },
+        {
+            "trait_type": "Discount",
+            "value": "25%"
+        }
+    ]
+}
